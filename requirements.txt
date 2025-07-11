@@ -1,0 +1,4 @@
+numpy 
+pandas
+
+#-e . # directly forward to setup.py file and run that file
